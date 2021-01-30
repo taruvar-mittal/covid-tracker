@@ -1,4 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<br>
+Live view at:-
+<br>
+https://covid-tracker-2020.netlify.app/
+<br>
 
 ## Available Scripts
 
